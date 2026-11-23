@@ -10,7 +10,7 @@
     "testnet": {
       "outPoint": {
         "index": "0x0",
-        "txHash": "0x0d1567da0979f78b297d5311442669fbd1bd853c8be324c5ab6da41e7a1ed6e5"
+        "txHash": "0x43eec662dba4416b2acefb978df762f86a2e8eade2da815152081030f8adf74d"
       },
       "depType": "code"
     },
@@ -33,7 +33,7 @@
     "testnet": {
       "outPoint": {
         "index": "0x0",
-        "txHash": "0x8fb747ff0416a43e135c583b028f98c7b81d3770551b196eb7ba1062dd9acc94"
+        "txHash": "0x4c910ae05c6d5255d17732fe370218af1bbeb5adf9aa2242b61bae791dc4cdc1"
       },
       "depType": "code"
     },
